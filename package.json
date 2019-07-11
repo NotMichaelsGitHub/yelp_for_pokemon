@@ -1,0 +1,23 @@
+{
+  "name": "yelp_for_pokemon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PokemonTCG/pokemon-tcg-sdk-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PokemonTCG/pokemon-tcg-sdk-javascript/issues"
+  },
+  "homepage": "https://github.com/PokemonTCG/pokemon-tcg-sdk-javascript#readme",
+  "dependencies": {
+    "pokemontcgsdk": "^1.1.0",
+    "require.js": "^1.0.0"
+  }
+}
